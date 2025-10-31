@@ -75,4 +75,5 @@ This project is licensed under the **MIT License** – you’re free to use, mod
 
 ## Author
 **Dev-1404**
-Feel free to connect or open an issue if you have suggestions or ideas!
+
+Open to further suggestions and ideas for improvement.
